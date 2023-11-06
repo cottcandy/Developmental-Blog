@@ -1,0 +1,21 @@
+h1{
+    font-family: 'Yeseva One', serif;
+    color: #f20b0b
+}
+
+h2,
+h3,
+h4{
+  font-family: 'Bree Serif', serif;
+    color: #f412f4
+}
+
+ul{
+    font-family: 'PT Sans Caption', sans-serif;
+    color: rgb(0, 0, 0)
+}
+a:link { /* unvisited link */ color: cadetblue; }
+a:visited { /* visited link */ color: steelblue; }
+a:hover { /* moused over link */ color: cornflowerblue; }
+a:active { /* current link */ color: darkorchid; }
+a:focus { /* focused link */ color: violet; }
