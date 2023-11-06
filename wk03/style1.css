@@ -1,17 +1,17 @@
 h1{
-    font-family: 'Yeseva One', serif;
+    font-family: 'Poppins', sans-serif;
     color: #f20b0b
 }
 
 h2,
 h3,
 h4{
-  font-family: 'Bree Serif', serif;
+    font-family: 'Edu TAS Beginner', cursive;
     color: #f412f4
 }
 
 ul{
-    font-family: 'PT Sans Caption', sans-serif;
+    font-family: 'Nunito', sans-serif;
     color: rgb(0, 0, 0)
 }
 a:link { /* unvisited link */ color: cadetblue; }
